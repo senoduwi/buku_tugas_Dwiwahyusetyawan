@@ -80,7 +80,7 @@
         android:layout_width="120dp"
         android:layout_height="wrap_content"
         android:layout_above="@id/button9"
-        android:text="button10"
+        android:text="button10"/>
 
 
 
